@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="loading_message">Loading ...</string>
+    <string name="not_available">Not Available</string>
+</resources>
